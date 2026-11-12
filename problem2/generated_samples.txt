@@ -1,0 +1,80 @@
+Tiny Shakespeare Transformer Generated Samples
+Top-k sampling: k = 20
+Prompt: ROMEO:\n
+
+======================================================================
+Temperature = 0.2
+======================================================================
+ROMEO:
+What the should the heart of the seepted and the come.
+
+LADY ANNE:
+I was the will should the will heart menter.
+
+LADY CAPULET:
+What the will he cart the heart the with with the can the seat
+The have the course and the preate the death,
+And the say the can the world and the can the hath
+And heaven the be the can the death and the come
+The prown of the can the serve to man the can the death
+The with heart of the come the death and the death,
+And the stay the call of the course of are
+The come and 
+
+======================================================================
+Temperature = 0.8
+======================================================================
+ROMEO:
+God the was of of heaven to meter;
+For intal mett the seed by the worse is the doos
+By the like pinces of their deash soul and unle.
+
+LADY ANGE:
+Well, no him at morth's away, let you bed.
+
+MISABELLLA:
+How he lave you stay the was?
+
+Pror:
+What by with down exven yill.
+
+HENRY BOLINGBRUNKE:
+A whe will with hey lose please aled that that ba lud
+And in man of that to hurst, be hellp the to lose
+Take own deaish on pattion; and when, sorrre
+To I your gainst the father ming of my lord.
+
+Proment:
+And tho
+
+======================================================================
+Temperature = 1.5
+======================================================================
+ROMEO:
+GoWe lempletixfy you, agrents, unful
+Cofll's apurtiong the tapptate.
+
+Nomo, thine:
+Gire so looke. Elive loves, theer's.
+
+ANGELEY:
+Me know yound seds thumbence for.
+Than smes ach blooughaion, all urpoun.
+
+PEY:
+A at mone.
+
+CORIOLANGUE:
+Sy'Genad it.
+
+Cleett Couziz:
+Awe with but lad-fe egue
+Those and ast ronevus feind: I glane. Teys too madd?
+Ludesta: by wrettt hat mon'st, sibuer?
+
+AUTOLANBY:
+Nour tow thats, naw ould, wight
+Ashound nighngs. 'Hast lookn, my secRtaly nur botesus.
+
+Nurd:
+WAll-O, which 
